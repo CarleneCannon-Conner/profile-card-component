@@ -1,7 +1,7 @@
 # Profile card component
 Assets provided by [frontendmentor](https://www.frontendmentor.io?ref=challenge)
 
-# Front-end Style Guide
+# Style Guide
 
 ## Layout
 
