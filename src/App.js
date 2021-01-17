@@ -88,7 +88,15 @@ function App() {
     display: inline-block;
     font-weight: 700;
     color: ${props => props.theme.headerColor};
-    padding-bottom: 0.625em;
+    padding-bottom: 0.5555555556em;
+  `;
+
+  const Medium = styled.span`
+    font-size: 0.7777777778em;
+  `;
+
+  const Small = styled.span`
+    font-size: 0.6666666667em;
   `;
 
   const PersonalDetails = styled.div`
@@ -124,32 +132,34 @@ function App() {
             <div>
               <Header>Victor Crest</Header> 26
             </div>
-            London
+            <Medium>
+              London
+            </Medium>
           </PersonalDetails>
           <Stats>
             <div>
               <div>
                 <Header>80K</Header>
               </div>
-              <div>
+              <Small>
                 Followers
-              </div>
+              </Small>
             </div>
             <div>
               <div>
                 <Header>803K</Header>
               </div>
-              <div>
+              <Small>
                 Likes
-              </div>
+              </Small>
             </div>
             <div>
               <div>
                 <Header>1.4K</Header>
               </div>
-              <div>
+              <Small>
                 Photos
-              </div>
+              </Small>
             </div>
           </Stats>
         </Card>
