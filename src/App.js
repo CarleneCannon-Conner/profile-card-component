@@ -157,7 +157,7 @@ function App() {
       </Background>
       <Footer>
           <p>
-            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target='_blank' rel='noreferrer'>Frontend Mentor</a>
+            Assets provided by <a href="https://www.frontendmentor.io?ref=challenge" target='_blank' rel='noreferrer'>Frontend Mentor</a>
           </p>
           <p>
           Coded by Carlene Cannon-Conner
