@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component
+# Profile card component
 Assets provided by [frontendmentor](https://www.frontendmentor.io?ref=challenge)
 
 # Front-end Style Guide
