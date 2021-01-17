@@ -34,6 +34,6 @@ Dark gray: hsl(0, 0%, 59%)
 - Weights: 400, 700
 
 # Run Code Locally
-`npm ci`
-`npm start`
+`npm ci
+npm start`
 
