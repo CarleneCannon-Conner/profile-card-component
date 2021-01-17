@@ -38,4 +38,3 @@ Dark gray: hsl(0, 0%, 59%)
 npm ci
 npm start
 ```
-
