@@ -1,6 +1,7 @@
 # Profile card component
 
 Assets provided by [frontendmentor](https://www.frontendmentor.io?ref=challenge)
+My delpoyed [demo](https://profile-card-component-gules-beta.vercel.app/) on vercel.com
 
 ## Style Guide
 
