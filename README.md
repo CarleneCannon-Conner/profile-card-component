@@ -1,6 +1,6 @@
 # Profile card component
 
-Assets provided by [frontendmentor](https://www.frontendmentor.io?ref=challenge)
+Assets and style guide provided by [frontendmentor](https://www.frontendmentor.io?ref=challenge)
 My delpoyed [demo](https://profile-card-component-gules-beta.vercel.app/) on vercel.com
 
 ## Style Guide
@@ -35,7 +35,7 @@ Dark gray: hsl(0, 0%, 59%)
 - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
 - Weights: 400, 700
 
-## Run code
+## Run code locally
 
 ```bash
 npm ci
